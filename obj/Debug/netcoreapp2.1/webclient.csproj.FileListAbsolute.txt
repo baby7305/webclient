@@ -1,0 +1,11 @@
+/Users/songhaibei/dotnetFrontend/webclient/bin/Debug/netcoreapp2.1/webclient.deps.json
+/Users/songhaibei/dotnetFrontend/webclient/bin/Debug/netcoreapp2.1/webclient.runtimeconfig.json
+/Users/songhaibei/dotnetFrontend/webclient/bin/Debug/netcoreapp2.1/webclient.runtimeconfig.dev.json
+/Users/songhaibei/dotnetFrontend/webclient/bin/Debug/netcoreapp2.1/webclient.dll
+/Users/songhaibei/dotnetFrontend/webclient/bin/Debug/netcoreapp2.1/webclient.pdb
+/Users/songhaibei/dotnetFrontend/webclient/obj/Debug/netcoreapp2.1/webclient.csproj.CoreCompileInputs.cache
+/Users/songhaibei/dotnetFrontend/webclient/obj/Debug/netcoreapp2.1/webclient.AssemblyInfoInputs.cache
+/Users/songhaibei/dotnetFrontend/webclient/obj/Debug/netcoreapp2.1/webclient.AssemblyInfo.cs
+/Users/songhaibei/dotnetFrontend/webclient/obj/Debug/netcoreapp2.1/webclient.dll
+/Users/songhaibei/dotnetFrontend/webclient/obj/Debug/netcoreapp2.1/webclient.pdb
+/Users/songhaibei/dotnetFrontend/webclient/obj/Debug/netcoreapp2.1/webclient.csprojResolveAssemblyReference.cache
